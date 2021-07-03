@@ -414,6 +414,7 @@ Devanshi Mittal
 - [Denali Balser](https://github.com/denalibalser)
 - [Edward S]
 - [Michelle](https://github.com/Michelle)
+- [Lee](https://github.com/bored212)
 - [ErrorCookie](https://github.com/UltraCookie1780)
 - [kuluruvineeth](https://github.com/kuluruvineeth)
 - [Theena Kumaragurunathan](https://github.com/MiragianCycle)
